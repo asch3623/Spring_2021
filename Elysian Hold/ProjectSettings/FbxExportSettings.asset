@@ -4,7 +4,7 @@
         "m_EditorHideFlags": 0,
         "m_Name": "",
         "m_EditorClassIdentifier": "Unity.Formats.Fbx.Editor:UnityEditor.Formats.Fbx.Exporter:ExportSettings",
-        "ExportOutsideProject": false,
+        "ExportOutsideProject": true,
         "Verbose": false,
         "launchAfterInstallation": true,
         "HideSendToUnityMenu": true,
@@ -16,6 +16,7 @@
             "."
         ],
         "fbxSavePaths": [
+            "C:/Users/Annika/Documents/maya/projects/Elysian_Hold",
             "."
         ],
         "selectedFbxPath": 0,
@@ -27,7 +28,7 @@
             "animatedSkinnedMesh": false,
             "mayaCompatibleNaming": true,
             "include": 0,
-            "lodLevel": 0,
+            "lodLevel": 2,
             "objectPosition": 0,
             "exportUnrendered": true
         },
